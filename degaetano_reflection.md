@@ -1,3 +1,6 @@
+# GPS 1.1
+
+## Michael de Gaetano Reflection
 
 **What Git concepts were you struggling with prior to the GPS session?**
 *I was having a difficult time visualizing the pushing, pulling and merging terminology. Some of the terms have similar meanings; pulling, merging, etc, but I definitely have a better handle on it now. Also, we successfully demonstrated that remembering to use proper Git workflow at all times can preempt conflicts down the road*
